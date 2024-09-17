@@ -1,1 +1,2 @@
 file3 in repo, use git pull to pull changes made in repo to vscode
+learning git commands
